@@ -1,5 +1,5 @@
 <?php
-namespace libs;
+namespace other;
 class User
 {
     function __construct()
